@@ -16,3 +16,5 @@ Explanation of Key Components:
 	•	File: Represents a file on the filesystem. Here, it refers to contacts.xml.
 
 This program will display each contact’s name, phone number, and email address from the contacts.xml file in a simple vertical list. The window title is “Contact List Manager,” and the layout is managed by a VBox.
+The compiling commands were a little more verbose with JavaFX: javac --module-path src/javafx-sdk-23/lib --add-modules javafx.controls,javafx.fxml -d out src/ContactListManager.java
+And to Run: java --module-path src/javafx-sdk-23/lib --add-modules javafx.controls,javafx.fxml -cp out ContactListManager
