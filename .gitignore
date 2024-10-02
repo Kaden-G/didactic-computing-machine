@@ -1,0 +1,11 @@
+# Ignore compiled files
+*.class
+out/
+target/
+
+# Ignore JavaFX SDK if added manually
+src/javafx-sdk-23/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
