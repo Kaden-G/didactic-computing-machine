@@ -1,12 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <contacts>
     <contact>
-        <name>John Doe</name>
-        <phone>555-1234</phone>
-        <email>john@example.com</email>
+        <name>Albert Einstein</name>
+        <phone>+1-202-555-0143</phone>
+        <email>albert.einstein@example.com</email>
     </contact>
     <contact>
-        <name>Jane Smith</name>
-        <phone>555-5678</phone>
-        <email>jane@example.com</email>
+        <name>Marie Curie</name>
+        <phone>+33-1-42-68-53-00</phone>
+        <email>marie.curie@example.fr</email>
+    </contact>
+    <contact>
+        <name>Leonardo da Vinci</name>
+        <phone>+39-06-6988-1234</phone>
+        <email>leonardo.davinci@example.it</email>
+    </contact>
+    <contact>
+        <name>Isaac Newton</name>
+        <phone>+44-20-7946-0958</phone>
+        <email>isaac.newton@example.co.uk</email>
+    </contact>
+    <contact>
+        <name>Cleopatra VII</name>
+        <phone>+20-2-2792-1234</phone>
+        <email>cleopatra.vii@example.eg</email>
+    </contact>
+    <contact>
+        <name>Genghis Khan</name>
+        <phone>+976-11-123456</phone>
+        <email>genghis.khan@example.mn</email>
+    </contact>
+    <contact>
+        <name>Joan of Arc</name>
+        <phone>+33-4-72-20-50-50</phone>
+        <email>joan.ofarc@example.fr</email>
+    </contact>
+    <contact>
+        <name>Alexander the Great</name>
+        <phone>+30-21-1234-5678</phone>
+        <email>alexander.great@example.gr</email>
+    </contact>
+    <contact>
+        <name>William Shakespeare</name>
+        <phone>+44-20-7946-0958</phone>
+        <email>william.shakespeare@example.co.uk</email>
+    </contact>
+    <contact>
+        <name>Queen Victoria</name>
+        <phone>+44-20-7946-0959</phone>
+        <email>queen.victoria@example.co.uk</email>
+    </contact>
+    <contact>
+        <name>Napoleon Bonaparte</name>
+        <phone>+33-1-44-78-90-00</phone>
+        <email>napoleon.bonaparte@example.fr</email>
+    </contact>
+    <contact>
+        <name>Martin Luther King Jr.</name>
+        <phone>+1-202-555-0175</phone>
+        <email>martin.luther.kingjr@example.com</email>
+    </contact>
+    <contact>
+        <name>Florence Nightingale</name>
+        <phone>+44-20-7946-0960</phone>
+        <email>florence.nightingale@example.co.uk</email>
+    </contact>
+    <contact>
+        <name>Abraham Lincoln</name>
+        <phone>+1-202-555-0198</phone>
+        <email>abraham.lincoln@example.com</email>
+    </contact>
+    <contact>
+        <name>Charles Darwin</name>
+        <phone>+44-20-7946-0961</phone>
+        <email>charles.darwin@example.co.uk</email>
+    </contact>
+    <contact>
+        <name>Galileo Galilei</name>
+        <phone>+39-02-1234-5678</phone>
+        <email>galileo.galilei@example.it</email>
+    </contact>
+    <contact>
+        <name>Nelson Mandela</name>
+        <phone>+27-11-123-4567</phone>
+        <email>nelson.mandela@example.za</email>
+    </contact>
+    <contact>
+        <name>William Wallace</name>
+        <phone>+44-30-1234-5678</phone>
+        <email>william.wallace@example.co.uk</email>
+    </contact>
+    <contact>
+        <name>Socrates</name>
+        <phone>+30-21-9876-5432</phone>
+        <email>socrates@example.gr</email>
+    </contact>
+    <contact>
+        <name>Joan Crawford</name>
+        <phone>+1-323-555-0123</phone>
+        <email>joan.crawford@example.com</email>
     </contact>
 </contacts>
